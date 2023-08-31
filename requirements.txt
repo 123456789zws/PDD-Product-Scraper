@@ -1,0 +1,6 @@
+requests~=2.31.0
+lxml
+PyExecJS
+beautifulsoup4
+urllib2_file
+pycryptodome

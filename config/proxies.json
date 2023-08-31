@@ -1,0 +1,5 @@
+{
+    "https": {
+        "1": "socks5://username:password@host:port"
+    }
+}
